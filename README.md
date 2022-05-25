@@ -7,12 +7,12 @@ I currently work on projects evolving around **Minecraft&trade;** and **Unreal E
 
 <div align="center">
    <a href="https://github.com/jstrieb/github-stats#gh-dark-mode-only">
-      <img src="https://raw.githubusercontent.com/sleazestiks/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
-      <img src="https://raw.githubusercontent.com/sleazestiks/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
+      <img src="https://raw.githubusercontent.com/sleazestiks/sleazestiks/master/generated/overview.svg#gh-dark-mode-only" />
+      <img src="https://raw.githubusercontent.com/sleazestiks/sleazestiks/master/generated/languages.svg#gh-dark-mode-only" />
    </a>
    <a href="https://github.com/jstrieb/github-stats#gh-light-mode-only">
-      <img src="https://raw.githubusercontent.com/sleazestiks/github-stats/master/generated/overview.svg#gh-light-mode-only" />
-      <img src="https://raw.githubusercontent.com/sleazestiks/github-stats/master/generated/languages.svg#gh-light-mode-only" />
+      <img src="https://raw.githubusercontent.com/sleazestiks/sleazestiks/master/generated/overview.svg#gh-light-mode-only" />
+      <img src="https://raw.githubusercontent.com/sleazestiks/sleazestiks/master/generated/languages.svg#gh-light-mode-only" />
    </a>
 </div>
 <div align="center">
