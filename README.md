@@ -6,14 +6,10 @@ Since 2019 (when I started programming) I developd many different skills but qui
 I currently work on projects evolving around **Minecraft&trade;** and **Unreal Engine 5**. Feel free to contribute to any open source project on my GitHub and on my organization [TeamSleaze](https://www.github.com/teamsleaze).
 
 <div align="center">
-   <a href="https://github.com/jstrieb/github-stats#gh-dark-mode-only">
-      <img src="https://raw.githubusercontent.com/sleazestiks/sleazestiks/master/generated/overview.svg#gh-dark-mode-only" />
-      <img src="https://raw.githubusercontent.com/sleazestiks/sleazestiks/master/generated/languages.svg#gh-dark-mode-only" />
-   </a>
-   <a href="https://github.com/jstrieb/github-stats#gh-light-mode-only">
-      <img src="https://raw.githubusercontent.com/sleazestiks/sleazestiks/master/generated/overview.svg#gh-light-mode-only" />
-      <img src="https://raw.githubusercontent.com/sleazestiks/sleazestiks/master/generated/languages.svg#gh-light-mode-only" />
-   </a>
+   <img src="https://raw.githubusercontent.com/sleazestiks/sleazestiks/master/generated/overview.svg#gh-dark-mode-only" />
+   <img src="https://raw.githubusercontent.com/sleazestiks/sleazestiks/master/generated/languages.svg#gh-dark-mode-only" />
+   <img src="https://raw.githubusercontent.com/sleazestiks/sleazestiks/master/generated/overview.svg#gh-light-mode-only" />
+   <img src="https://raw.githubusercontent.com/sleazestiks/sleazestiks/master/generated/languages.svg#gh-light-mode-only" />
 </div>
 <div align="center">
    <a href="https://sleazestiks.github.io/home/" target="_blank">
