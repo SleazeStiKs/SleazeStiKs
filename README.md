@@ -24,8 +24,3 @@ I currently work on projects evolving around **Minecraft** and **Unreal Engine 5
       <img src="https://img.shields.io/badge/Support-SleazeStiKs-ad63f8?style=for-the-badge&logo=kofi" alt="SleazeStiKs" />
    </a>
 </div>
-
-<div>
-   &nbsp;
-   <h6>PS: RobaCZ is a copycat and can't design his own README</h6>
-</div>
