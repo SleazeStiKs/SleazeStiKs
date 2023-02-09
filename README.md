@@ -12,7 +12,7 @@ I currently work on projects evolving around **Minecraft** and **Unreal Engine 5
    <img src="https://raw.githubusercontent.com/sleazestiks/sleazestiks/master/generated/languages.svg#gh-light-mode-only" />
 </div>
 <div align="center">
-   <a href="https://sleazestiks.github.io/home/" target="_blank">
+   <a href="https://sleazestiks.github.io/" target="_blank">
       <img src="https://img.shields.io/badge/Website-Home-3fb950?style=for-the-badge" alt="Website - Home">
    </a>
    &nbsp;
