@@ -1,7 +1,6 @@
 import pathlib
 import re
-from datetime import datetime, date
-import dateutil
+from datetime import date
 
 root = pathlib.Path(__file__).parent.resolve()
 
@@ -16,14 +15,9 @@ def replace_writing(content, marker, chunk, inline=False):
     chunk = '<!-- {} starts -->{}<!-- {} ends -->'.format(marker, chunk, marker)
     return r.sub(chunk, content)
 
-def birthday():
-    # Get the current date
-    now = datetime.datetime.utcnow()
-    now = now.date()
-
-    # Get the difference between the current date and the birthday
-    age = dateutil.relativedelta.relativedelta(now, date(2005, 4, 3))
-    age = age.years
+def calculateAge(birthDate):
+    today = date.today()
+    age = today.year - birthDate.year - ((today.month, today.day) < (birthDate.month, birthDate.day))
 
     return age
 
@@ -32,5 +26,5 @@ if __name__ == '__main__':
     readme = readme_path.open().read()
     
     # Update Age
-    rewritten_count = replace_writing(readme, 'age', birthday(), inline=True)
+    rewritten_count = replace_writing(readme, 'age', calculateAge(date(2005, 4, 3)), inline=True)
     readme_path.open('w').write(rewritten_count)
