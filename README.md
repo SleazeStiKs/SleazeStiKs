@@ -19,8 +19,4 @@ I currently work on projects evolving around **Unity** and **Game Development**.
    <a href="https://twitter.com/sleazestiks" target="_blank">
       <img src="https://img.shields.io/twitter/follow/sleazestiks?logo=twitter&style=for-the-badge" alt="SleazeStiKs" />
    </a>
-   &nbsp;
-   <a href="https://ko-fi.com/H2H7CJF48" target="_blank">
-      <img src="https://img.shields.io/badge/Support-SleazeStiKs-ad63f8?style=for-the-badge&logo=kofi" alt="SleazeStiKs" />
-   </a>
 </div>
