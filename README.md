@@ -1,7 +1,8 @@
 ### Hello there, my name is Lukas 👋 
 
-I'm a <!-- age starts -->19<!-- age ends -->-year-old hobbyist developer from Germany and have a great interest in electronics and robotics.
-Since 2019 (when I started programming) I developd many different skills but quickly set my focus on expanding and coding games.
+I'm a <!-- age starts -->19<!-- age ends -->-year-old developer from Germany.
+
+I code games in Godot.
 
 <div align="center">
    <img src="https://raw.githubusercontent.com/sleazestiks/sleazestiks/master/generated/overview.svg#gh-dark-mode-only" />
